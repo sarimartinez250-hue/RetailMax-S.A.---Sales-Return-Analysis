@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Segment,City,Country
+C0001,Customer 0001,Consumer,Santa Tecla,El Salvador
+C0002,Customer 0002,Small Business,Soyapango,El Salvador
+C0003,Customer 0003,Corporate,Antiguo Cuscatlán,El Salvador
+C0004,Customer 0004,Corporate,San Miguel,El Salvador
+C0005,Customer 0005,Consumer,Soyapango,El Salvador
+C0006,Customer 0006,Consumer,Santa Tecla,El Salvador
+C0007,Customer 0007,Consumer,Santa Ana,El Salvador
+C0008,Customer 0008,Small Business,Soyapango,El Salvador
+C0009,Customer 0009,Corporate,Santa Ana,El Salvador
+C0010,Customer 0010,Corporate,Antiguo Cuscatlán,El Salvador
+C0011,Customer 0011,Consumer,San Miguel,El Salvador
+C0012,Customer 0012,Small Business,San Salvador,El Salvador
+C0013,Customer 0013,Corporate,San Miguel,El Salvador
+C0014,Customer 0014,Consumer,Soyapango,El Salvador
+C0015,Customer 0015,Consumer,Santa Ana,El Salvador
+C0016,Customer 0016,Consumer,Santa Ana,El Salvador
+C0017,Customer 0017,Consumer,Santa Tecla,El Salvador
+C0018,Customer 0018,Consumer,Santa Ana,El Salvador
+C0019,Customer 0019,Consumer,Santa Tecla,El Salvador
+C0020,Customer 0020,Consumer,Antiguo Cuscatlán,El Salvador
+C0021,Customer 0021,Corporate,San Salvador,El Salvador
+C0022,Customer 0022,Consumer,Soyapango,El Salvador
+C0023,Customer 0023,Consumer,Santa Tecla,El Salvador
+C0024,Customer 0024,Consumer,San Salvador,El Salvador
+C0025,Customer 0025,Consumer,Santa Ana,El Salvador
+C0026,Customer 0026,Corporate,Santa Ana,El Salvador
+C0027,Customer 0027,Consumer,San Salvador,El Salvador
+C0028,Customer 0028,Consumer,Santa Ana,El Salvador
+C0029,Customer 0029,Corporate,Antiguo Cuscatlán,El Salvador
+C0030,Customer 0030,Consumer,Antiguo Cuscatlán,El Salvador
+C0031,Customer 0031,Corporate,San Salvador,El Salvador
+C0032,Customer 0032,Consumer,Santa Tecla,El Salvador
+C0033,Customer 0033,Consumer,Santa Tecla,El Salvador
+C0034,Customer 0034,Small Business,San Salvador,El Salvador
+C0035,Customer 0035,Small Business,Santa Tecla,El Salvador
+C0036,Customer 0036,Corporate,Santa Tecla,El Salvador
+C0037,Customer 0037,Consumer,Antiguo Cuscatlán,El Salvador
+C0038,Customer 0038,Consumer,Santa Tecla,El Salvador
+C0039,Customer 0039,Corporate,San Miguel,El Salvador
+C0040,Customer 0040,Consumer,Soyapango,El Salvador
+C0041,Customer 0041,Consumer,Santa Ana,El Salvador
+C0042,Customer 0042,Consumer,San Miguel,El Salvador
+C0043,Customer 0043,Consumer,Santa Tecla,El Salvador
+C0044,Customer 0044,Small Business,Antiguo Cuscatlán,El Salvador
+C0045,Customer 0045,Consumer,San Salvador,El Salvador
+C0046,Customer 0046,Corporate,Santa Tecla,El Salvador
+C0047,Customer 0047,Consumer,Antiguo Cuscatlán,El Salvador
+C0048,Customer 0048,Consumer,Soyapango,El Salvador
+C0049,Customer 0049,Consumer,Santa Tecla,El Salvador
+C0050,Customer 0050,Consumer,San Salvador,El Salvador
+C0051,Customer 0051,Small Business,Antiguo Cuscatlán,El Salvador
+C0052,Customer 0052,Corporate,Antiguo Cuscatlán,El Salvador
+C0053,Customer 0053,Small Business,Antiguo Cuscatlán,El Salvador
+C0054,Customer 0054,Small Business,Soyapango,El Salvador
+C0055,Customer 0055,Corporate,Santa Tecla,El Salvador
+C0056,Customer 0056,Small Business,Soyapango,El Salvador
+C0057,Customer 0057,Consumer,Santa Ana,El Salvador
+C0058,Customer 0058,Consumer,Santa Ana,El Salvador
+C0059,Customer 0059,Consumer,Santa Tecla,El Salvador
+C0060,Customer 0060,Consumer,Soyapango,El Salvador
+C0061,Customer 0061,Consumer,San Salvador,El Salvador
+C0062,Customer 0062,Consumer,Antiguo Cuscatlán,El Salvador
+C0063,Customer 0063,Corporate,Antiguo Cuscatlán,El Salvador
+C0064,Customer 0064,Consumer,Santa Tecla,El Salvador
+C0065,Customer 0065,Consumer,Santa Ana,El Salvador
+C0066,Customer 0066,Consumer,Santa Ana,El Salvador
+C0067,Customer 0067,Consumer,Antiguo Cuscatlán,El Salvador
+C0068,Customer 0068,Corporate,Santa Tecla,El Salvador
+C0069,Customer 0069,Consumer,Soyapango,El Salvador
+C0070,Customer 0070,Small Business,Santa Ana,El Salvador
+C0071,Customer 0071,Corporate,Soyapango,El Salvador
+C0072,Customer 0072,Consumer,Santa Ana,El Salvador
+C0073,Customer 0073,Consumer,Santa Ana,El Salvador
+C0074,Customer 0074,Corporate,San Miguel,El Salvador
+C0075,Customer 0075,Corporate,Santa Ana,El Salvador
+C0076,Customer 0076,Corporate,San Salvador,El Salvador
+C0077,Customer 0077,Corporate,Santa Tecla,El Salvador
+C0078,Customer 0078,Consumer,Santa Tecla,El Salvador
+C0079,Customer 0079,Consumer,Soyapango,El Salvador
+C0080,Customer 0080,Consumer,Santa Ana,El Salvador
+C0081,Customer 0081,Small Business,San Salvador,El Salvador
+C0082,Customer 0082,Corporate,Soyapango,El Salvador
+C0083,Customer 0083,Consumer,San Miguel,El Salvador
+C0084,Customer 0084,Consumer,Soyapango,El Salvador
+C0085,Customer 0085,Consumer,Soyapango,El Salvador
+C0086,Customer 0086,Consumer,Santa Ana,El Salvador
+C0087,Customer 0087,Corporate,San Miguel,El Salvador
+C0088,Customer 0088,Corporate,Soyapango,El Salvador
+C0089,Customer 0089,Small Business,San Salvador,El Salvador
+C0090,Customer 0090,Consumer,San Salvador,El Salvador
+C0091,Customer 0091,Consumer,Santa Tecla,El Salvador
+C0092,Customer 0092,Corporate,San Miguel,El Salvador
+C0093,Customer 0093,Corporate,San Miguel,El Salvador
+C0094,Customer 0094,Consumer,Santa Tecla,El Salvador
+C0095,Customer 0095,Corporate,Soyapango,El Salvador
+C0096,Customer 0096,Consumer,San Miguel,El Salvador
+C0097,Customer 0097,Consumer,San Salvador,El Salvador
+C0098,Customer 0098,Consumer,San Salvador,El Salvador
+C0099,Customer 0099,Consumer,Santa Ana,El Salvador
+C0100,Customer 0100,Consumer,San Miguel,El Salvador
+C0101,Customer 0101,Consumer,Soyapango,El Salvador
+C0102,Customer 0102,Corporate,Santa Tecla,El Salvador
+C0103,Customer 0103,Consumer,Santa Tecla,El Salvador
+C0104,Customer 0104,Consumer,Soyapango,El Salvador
+C0105,Customer 0105,Small Business,Antiguo Cuscatlán,El Salvador
+C0106,Customer 0106,Consumer,Santa Ana,El Salvador
+C0107,Customer 0107,Consumer,Santa Tecla,El Salvador
+C0108,Customer 0108,Corporate,San Miguel,El Salvador
+C0109,Customer 0109,Consumer,Santa Ana,El Salvador
+C0110,Customer 0110,Consumer,San Miguel,El Salvador
+C0111,Customer 0111,Consumer,San Salvador,El Salvador
+C0112,Customer 0112,Consumer,Santa Ana,El Salvador
+C0113,Customer 0113,Small Business,Santa Tecla,El Salvador
+C0114,Customer 0114,Corporate,Santa Ana,El Salvador
+C0115,Customer 0115,Corporate,Santa Ana,El Salvador
+C0116,Customer 0116,Small Business,Santa Ana,El Salvador
+C0117,Customer 0117,Corporate,Antiguo Cuscatlán,El Salvador
+C0118,Customer 0118,Consumer,Santa Ana,El Salvador
+C0119,Customer 0119,Small Business,San Miguel,El Salvador
+C0120,Customer 0120,Consumer,San Salvador,El Salvador
+C0121,Customer 0121,Corporate,Soyapango,El Salvador
+C0122,Customer 0122,Small Business,Santa Ana,El Salvador
+C0123,Customer 0123,Consumer,Santa Tecla,El Salvador
+C0124,Customer 0124,Consumer,Santa Ana,El Salvador
+C0125,Customer 0125,Consumer,Santa Tecla,El Salvador
+C0126,Customer 0126,Consumer,San Miguel,El Salvador
+C0127,Customer 0127,Corporate,Santa Tecla,El Salvador
+C0128,Customer 0128,Small Business,Soyapango,El Salvador
+C0129,Customer 0129,Consumer,San Salvador,El Salvador
+C0130,Customer 0130,Consumer,Santa Tecla,El Salvador
+C0131,Customer 0131,Consumer,Santa Tecla,El Salvador
+C0132,Customer 0132,Consumer,San Salvador,El Salvador
+C0133,Customer 0133,Consumer,Soyapango,El Salvador
+C0134,Customer 0134,Consumer,Santa Ana,El Salvador
+C0135,Customer 0135,Small Business,Santa Tecla,El Salvador
+C0136,Customer 0136,Consumer,San Salvador,El Salvador
+C0137,Customer 0137,Consumer,San Miguel,El Salvador
+C0138,Customer 0138,Corporate,San Salvador,El Salvador
+C0139,Customer 0139,Consumer,San Miguel,El Salvador
+C0140,Customer 0140,Small Business,Soyapango,El Salvador
+C0141,Customer 0141,Small Business,Santa Ana,El Salvador
+C0142,Customer 0142,Consumer,San Salvador,El Salvador
+C0143,Customer 0143,Consumer,Antiguo Cuscatlán,El Salvador
+C0144,Customer 0144,Consumer,Santa Tecla,El Salvador
+C0145,Customer 0145,Consumer,Soyapango,El Salvador
+C0146,Customer 0146,Consumer,San Salvador,El Salvador
+C0147,Customer 0147,Corporate,Santa Tecla,El Salvador
+C0148,Customer 0148,Consumer,San Salvador,El Salvador
+C0149,Customer 0149,Consumer,San Miguel,El Salvador
+C0150,Customer 0150,Consumer,San Salvador,El Salvador
+C0151,Customer 0151,Small Business,Antiguo Cuscatlán,El Salvador
+C0152,Customer 0152,Consumer,San Salvador,El Salvador
+C0153,Customer 0153,Consumer,San Salvador,El Salvador
+C0154,Customer 0154,Consumer,Antiguo Cuscatlán,El Salvador
+C0155,Customer 0155,Small Business,Soyapango,El Salvador
+C0156,Customer 0156,Consumer,San Salvador,El Salvador
+C0157,Customer 0157,Corporate,Antiguo Cuscatlán,El Salvador
+C0158,Customer 0158,Corporate,Santa Tecla,El Salvador
+C0159,Customer 0159,Consumer,San Miguel,El Salvador
+C0160,Customer 0160,Corporate,San Miguel,El Salvador
+C0161,Customer 0161,Consumer,San Salvador,El Salvador
+C0162,Customer 0162,Corporate,Soyapango,El Salvador
+C0163,Customer 0163,Corporate,Soyapango,El Salvador
+C0164,Customer 0164,Consumer,Santa Tecla,El Salvador
+C0165,Customer 0165,Consumer,San Salvador,El Salvador
+C0166,Customer 0166,Corporate,San Miguel,El Salvador
+C0167,Customer 0167,Consumer,Soyapango,El Salvador
+C0168,Customer 0168,Consumer,San Salvador,El Salvador
+C0169,Customer 0169,Consumer,Soyapango,El Salvador
+C0170,Customer 0170,Corporate,Antiguo Cuscatlán,El Salvador
+C0171,Customer 0171,Corporate,Soyapango,El Salvador
+C0172,Customer 0172,Consumer,San Miguel,El Salvador
+C0173,Customer 0173,Consumer,Santa Ana,El Salvador
+C0174,Customer 0174,Consumer,Santa Tecla,El Salvador
+C0175,Customer 0175,Corporate,Santa Tecla,El Salvador
+C0176,Customer 0176,Consumer,San Miguel,El Salvador
+C0177,Customer 0177,Corporate,Soyapango,El Salvador
+C0178,Customer 0178,Consumer,San Salvador,El Salvador
+C0179,Customer 0179,Small Business,Soyapango,El Salvador
+C0180,Customer 0180,Consumer,San Miguel,El Salvador
+C0181,Customer 0181,Consumer,Santa Tecla,El Salvador
+C0182,Customer 0182,Consumer,Soyapango,El Salvador
+C0183,Customer 0183,Small Business,Santa Tecla,El Salvador
+C0184,Customer 0184,Small Business,San Salvador,El Salvador
+C0185,Customer 0185,Consumer,Santa Tecla,El Salvador
+C0186,Customer 0186,Corporate,Santa Tecla,El Salvador
+C0187,Customer 0187,Corporate,Santa Ana,El Salvador
+C0188,Customer 0188,Consumer,Santa Ana,El Salvador
+C0189,Customer 0189,Consumer,Antiguo Cuscatlán,El Salvador
+C0190,Customer 0190,Consumer,Santa Ana,El Salvador
+C0191,Customer 0191,Consumer,Santa Tecla,El Salvador
+C0192,Customer 0192,Small Business,San Miguel,El Salvador
+C0193,Customer 0193,Small Business,Santa Tecla,El Salvador
+C0194,Customer 0194,Corporate,San Miguel,El Salvador
+C0195,Customer 0195,Consumer,San Miguel,El Salvador
+C0196,Customer 0196,Consumer,Santa Ana,El Salvador
+C0197,Customer 0197,Corporate,Soyapango,El Salvador
+C0198,Customer 0198,Small Business,San Salvador,El Salvador
+C0199,Customer 0199,Small Business,Santa Ana,El Salvador
+C0200,Customer 0200,Corporate,Santa Ana,El Salvador
+C0201,Customer 0201,Corporate,Soyapango,El Salvador
+C0202,Customer 0202,Consumer,San Salvador,El Salvador
+C0203,Customer 0203,Consumer,Santa Tecla,El Salvador
+C0204,Customer 0204,Small Business,Antiguo Cuscatlán,El Salvador
+C0205,Customer 0205,Corporate,Antiguo Cuscatlán,El Salvador
+C0206,Customer 0206,Consumer,Santa Tecla,El Salvador
+C0207,Customer 0207,Consumer,Santa Ana,El Salvador
+C0208,Customer 0208,Corporate,San Salvador,El Salvador
+C0209,Customer 0209,Consumer,Santa Ana,El Salvador
+C0210,Customer 0210,Consumer,San Miguel,El Salvador
+C0211,Customer 0211,Consumer,Santa Ana,El Salvador
+C0212,Customer 0212,Corporate,Santa Ana,El Salvador
+C0213,Customer 0213,Corporate,Santa Tecla,El Salvador
+C0214,Customer 0214,Consumer,Santa Tecla,El Salvador
+C0215,Customer 0215,Corporate,Santa Tecla,El Salvador
+C0216,Customer 0216,Consumer,Antiguo Cuscatlán,El Salvador
+C0217,Customer 0217,Consumer,San Miguel,El Salvador
+C0218,Customer 0218,Corporate,Santa Tecla,El Salvador
+C0219,Customer 0219,Corporate,San Salvador,El Salvador
+C0220,Customer 0220,Corporate,Antiguo Cuscatlán,El Salvador
+C0221,Customer 0221,Corporate,Soyapango,El Salvador
+C0222,Customer 0222,Consumer,San Salvador,El Salvador
+C0223,Customer 0223,Consumer,San Salvador,El Salvador
+C0224,Customer 0224,Consumer,Santa Tecla,El Salvador
+C0225,Customer 0225,Consumer,Soyapango,El Salvador
+C0226,Customer 0226,Consumer,Soyapango,El Salvador
+C0227,Customer 0227,Small Business,Antiguo Cuscatlán,El Salvador
+C0228,Customer 0228,Consumer,Soyapango,El Salvador
+C0229,Customer 0229,Small Business,San Miguel,El Salvador
+C0230,Customer 0230,Corporate,Santa Tecla,El Salvador
+C0231,Customer 0231,Corporate,Soyapango,El Salvador
+C0232,Customer 0232,Consumer,Antiguo Cuscatlán,El Salvador
+C0233,Customer 0233,Consumer,San Miguel,El Salvador
+C0234,Customer 0234,Consumer,Santa Ana,El Salvador
+C0235,Customer 0235,Consumer,Santa Ana,El Salvador
+C0236,Customer 0236,Corporate,San Miguel,El Salvador
+C0237,Customer 0237,Consumer,Antiguo Cuscatlán,El Salvador
+C0238,Customer 0238,Consumer,San Miguel,El Salvador
+C0239,Customer 0239,Corporate,Santa Tecla,El Salvador
+C0240,Customer 0240,Consumer,Santa Tecla,El Salvador
+C0241,Customer 0241,Small Business,Santa Ana,El Salvador
+C0242,Customer 0242,Small Business,Soyapango,El Salvador
+C0243,Customer 0243,Small Business,Antiguo Cuscatlán,El Salvador
+C0244,Customer 0244,Consumer,Santa Ana,El Salvador
+C0245,Customer 0245,Consumer,Soyapango,El Salvador
+C0246,Customer 0246,Small Business,Soyapango,El Salvador
+C0247,Customer 0247,Consumer,Santa Tecla,El Salvador
+C0248,Customer 0248,Small Business,San Salvador,El Salvador
+C0249,Customer 0249,Small Business,San Salvador,El Salvador
+C0250,Customer 0250,Small Business,San Miguel,El Salvador
+C0251,Customer 0251,Consumer,Santa Tecla,El Salvador
+C0252,Customer 0252,Consumer,Soyapango,El Salvador
+C0253,Customer 0253,Small Business,Antiguo Cuscatlán,El Salvador
+C0254,Customer 0254,Consumer,San Salvador,El Salvador
+C0255,Customer 0255,Consumer,Soyapango,El Salvador
+C0256,Customer 0256,Consumer,San Salvador,El Salvador
+C0257,Customer 0257,Small Business,San Salvador,El Salvador
+C0258,Customer 0258,Corporate,San Salvador,El Salvador
+C0259,Customer 0259,Consumer,Antiguo Cuscatlán,El Salvador
+C0260,Customer 0260,Consumer,Santa Tecla,El Salvador
+C0261,Customer 0261,Corporate,Antiguo Cuscatlán,El Salvador
+C0262,Customer 0262,Small Business,Santa Ana,El Salvador
+C0263,Customer 0263,Consumer,Soyapango,El Salvador
+C0264,Customer 0264,Consumer,Santa Tecla,El Salvador
+C0265,Customer 0265,Small Business,Santa Tecla,El Salvador
+C0266,Customer 0266,Corporate,Santa Tecla,El Salvador
+C0267,Customer 0267,Corporate,Santa Tecla,El Salvador
+C0268,Customer 0268,Corporate,Antiguo Cuscatlán,El Salvador
+C0269,Customer 0269,Consumer,Santa Tecla,El Salvador
+C0270,Customer 0270,Consumer,San Miguel,El Salvador
+C0271,Customer 0271,Corporate,Soyapango,El Salvador
+C0272,Customer 0272,Corporate,Santa Tecla,El Salvador
+C0273,Customer 0273,Small Business,Soyapango,El Salvador
+C0274,Customer 0274,Small Business,San Miguel,El Salvador
+C0275,Customer 0275,Consumer,San Miguel,El Salvador
+C0276,Customer 0276,Consumer,Soyapango,El Salvador
+C0277,Customer 0277,Corporate,San Salvador,El Salvador
+C0278,Customer 0278,Corporate,Santa Ana,El Salvador
+C0279,Customer 0279,Corporate,San Salvador,El Salvador
+C0280,Customer 0280,Corporate,San Salvador,El Salvador
+C0281,Customer 0281,Small Business,Antiguo Cuscatlán,El Salvador
+C0282,Customer 0282,Consumer,San Salvador,El Salvador
+C0283,Customer 0283,Consumer,Santa Tecla,El Salvador
+C0284,Customer 0284,Consumer,Antiguo Cuscatlán,El Salvador
+C0285,Customer 0285,Consumer,Antiguo Cuscatlán,El Salvador
+C0286,Customer 0286,Consumer,San Miguel,El Salvador
+C0287,Customer 0287,Consumer,San Salvador,El Salvador
+C0288,Customer 0288,Consumer,San Miguel,El Salvador
+C0289,Customer 0289,Consumer,Soyapango,El Salvador
+C0290,Customer 0290,Corporate,Santa Ana,El Salvador
+C0291,Customer 0291,Consumer,Antiguo Cuscatlán,El Salvador
+C0292,Customer 0292,Consumer,Soyapango,El Salvador
+C0293,Customer 0293,Corporate,Soyapango,El Salvador
+C0294,Customer 0294,Consumer,Santa Tecla,El Salvador
+C0295,Customer 0295,Consumer,Santa Ana,El Salvador
+C0296,Customer 0296,Consumer,Soyapango,El Salvador
+C0297,Customer 0297,Corporate,Soyapango,El Salvador
+C0298,Customer 0298,Consumer,Santa Ana,El Salvador
+C0299,Customer 0299,Corporate,Santa Ana,El Salvador
+C0300,Customer 0300,Consumer,Soyapango,El Salvador
