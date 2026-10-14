@@ -9,9 +9,7 @@ dashboard.
 Rather than focusing only on visual design, this project emphasizes analytical thinking: understanding the data, defining meaningful metrics, identify patterns, and asking further questions based
 on the results.
 
-Dataset: fictional/syntethic data
-Tools: Microsoft Power BI, Power Query, DAX, Microsoft Excel
-Project type: Business Intelligence and Data Analytics
+Dataset: Fictional/Syntethic data
 
 ## 🎯 Business Objectives
 The report was designed to answer questions such as:
@@ -67,11 +65,11 @@ Power Query merges were also used to enrich return records with attributes neede
 The report contains four pages, each one designed for a specific purpose.
 1. Main. The landing page introduces the RetailMax S.A. report and provides navigation to the main analytical sections.
 
-2. Exectuive Overview. Provides a high.level view of overall business performance through KPI cards and trend visualizations.
+2. Exectuive Overview. Provides a high-level view of overall business performance through KPI cards and trend visualizations.
    
    The page focuses on key financial indicators, sales trends, year-over-year performance, and product-level contributions to sales and gross profit.
 
-4. Sales Performance. Explores sales performance across business dimensions, including region, salesperson, prodcut category, and sales channel.
+4. Sales Performance. Explores sales performance across business dimensions, including region, salesperson, product category, and sales channel.
 
 5. Return Analysis. Examines products returns from operational and financial perspectives.
    
@@ -81,21 +79,21 @@ The report contains four pages, each one designed for a specific purpose.
    between returned units and refund amounts.
 
 ## 👁️📌 Selected Analytical Observations
-The dashboard supports several useful analytica investigations.
+The dashboard supports several useful analytical investigations.
 - Refund trends and anomalies. Monthly refund amounts can be compared to identify unusually high or low periods.
   For example, the report highlights a substantial difference between November and December 2025, providing an opportunity to investigate which categories, products, or return reason contributed
   to the change.
 
-- Return reasons. A 100% stacked column chart shows the relative distribution of return reasons by month. This makes it possible to comparethe composition of return acros periods, including when
+- Return reasons. A 100% stacked column chart shows the relative distribution of return reasons by month. This makes it possible to compare the composition of return across periods, including when
   the total number of returned units differs.
 
 - Product-level refund analysis. A Category → Product hierarchy allows users to begin with a high-level category comparison and drill down into individual products. This supports more
   detailed investigation of categories or products associated with high refund amounts.
 
 - Returned units versus refund amount. The combined line and column chart compares returned quantities with their financial impact.
-  For example, July 2024 recorder 64 returned units and a refund amount of $52,212.74, while December 2025 recorded 59 returned units and $51,751.58 in refunds.
+  For example, July 2024 recorded 64 returned units and a refund amount of $52,212.74, while December 2025 recorded 59 returned units and $51,751.58 in refunds.
   This comparison illustrates why return volume alone does not fully explain financial impact. Differences in product prices, product mix, and other factors may help explain the variation and
-  can be investiated using the report filters.
+  can be investigated using the report filters.
 
 - Regional analysis. Regional comparisons help identify where approved returns are concentrated. However, a high number of returns does not necessarily indicate a high return rate. Return
   counts should be interpreted alongside order volumen and other relevant measures.
@@ -137,14 +135,14 @@ The repository is organized to make the report, supporting data, and documentati
 1. Clone or download this repository.
 2. Open RetailMaxAnalysis.pbix using Power BI Desktop.
 3. If Power BI request access to the source files, update the data-source paths to match their locations on your computer.
-4. Refresh the data if source files are available and the queries are configured correcly.
+4. Refresh the data if source files are available and the queries are configured correctly.
 5. Explore the report using the slicers, navigation buttons, and drill-down functionality.
 
 ## 🚧 Assumptions and Limitations
 - RetailMax S.A. is fictional, and the dataset is synthetic or modified for educational and portfolio purposes.
 - Missing or invalid source values may require explicit assumptions during data preparation.
 - Product identifier recovery is performed only where a reliable matching value is available.
-- Customer records that cannot be reliably identified are classified as unknown.
+- Customer records that cannot be reliably identified are classified as <b>unknown</b>.
 - Return eligibility is determined using a 90-day threshold from shipping date. Refund amounts are set to zero returns outside that eligibility window under the project's business rules.
 - Observed trends and anomalies indicate areas for further investigation; they do not necessarily establish causation.
 
