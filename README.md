@@ -64,20 +64,23 @@ Power Query merges were also used to enrich return records with attributes neede
 ## 📑 Dashboard pages
 The report contains four pages, each one designed for a specific purpose.
 1. Main. The landing page introduces the RetailMax S.A. report and provides navigation to the main analytical sections.
+   ![Main](RetailMax_PowerBI_Practice/images/main.jpeg)
 
-2. Exectuive Overview. Provides a high-level view of overall business performance through KPI cards and trend visualizations.
+2. Executive Overview. Provides a high-level view of overall business performance through KPI cards and trend visualizations.
    
    The page focuses on key financial indicators, sales trends, year-over-year performance, and product-level contributions to sales and gross profit.
+   ![Dashboard](RetailMax_PowerBI_Practice/images/executive_overview.jpeg)
 
-4. Sales Performance. Explores sales performance across business dimensions, including region, salesperson, product category, and sales channel.
+ 3. Sales Performance. Explores sales performance across business dimensions, including region, salesperson, product category, and sales channel.
+   ![Dashboard](RetailMax_PowerBI_Practice/images/sales_performance.jpeg)
 
-5. Return Analysis. Examines products returns from operational and financial perspectives.
+4. Return Analysis. Examines products returns from operational and financial perspectives.
    
    The report includes indicators such as return requests, approved and rejected returns, approval rate, returned units, refund amount, order return rate, and unit return rate.
 
-   Its visualizations explore refund trends over time, the distribution of return reasons over months, refund amounts by category and product, approved returns by region, and the relationship
-   between returned units and refund amounts.
-
+   Its visualizations explore refund trends over time, the distribution of return reasons over months, refund amounts by category and product, approved returns by region, and the relationship between returned units and refund amounts.
+   ![Dashboard](RetailMax_PowerBI_Practice/images/return_analysis.jpeg)
+   
 ## 👁️📌 Selected Analytical Observations
 The dashboard supports several useful analytical investigations.
 - Refund trends and anomalies. Monthly refund amounts can be compared to identify unusually high or low periods.
